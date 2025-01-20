@@ -1,6 +1,12 @@
 ### Hi, my name is Pedro Hatus🌊
+<ul dir="auto">
+<li>🎓 Studying on UFRPE</li>
+<li>💼 Searching for a new opportunity to work as a developer</li>
+</li>
+</ul>
 
 
+![Tutu GitHub stats](https://github-readme-stats.vercel.app/api?username=Hratus&show_icons=true&theme=radical)
 ## Hard Skills
 ### Aplication and data
 
@@ -38,7 +44,7 @@ Apaixonado por desafios, projetos e tecnologias
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](phb.briano@gmail.com)
 
-![Tutu GitHub stats](https://github-readme-stats.vercel.app/api?username=Hratus&show_icons=true&theme=radical)
+
   
   
   
