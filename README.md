@@ -8,5 +8,5 @@
 ## Day use Tecnologies
 
 <div style="display: inline_block"><br/>
-  <img alt="Java" align="center" scr="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img alt="Java" align="center" scr="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 </div>
