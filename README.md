@@ -1,7 +1,7 @@
 ### Hi, my name is Pedro Hatus🌊
 <img src="https://camo.githubusercontent.com/5e8c0c6ed22e0558bfab8dcb3691cd9545f3430111f6c823e2c6d6d554235798/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d5265694c6f6b6f3426636f6c6f723d303036626564" alt="" data-canonical-src="https://komarev.com/ghpvc/?username=Hratus;color=006bed" style="max-width: 100%;">
 <ul dir="auto">
-<li>🎓 Studying on UFRPE</li>
+<li>🎓</li>
 <li>💼 Searching for a new opportunity to work as a developer</li>
 </li>
 </ul>
